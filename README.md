@@ -66,3 +66,9 @@ __EXIT__ :
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+
+ <p align="center">
+<a href="https://github.com/Alienrazor"><img title="Author" src="https://img.shields.io/badge/Author-Alienrazor-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+
