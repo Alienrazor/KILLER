@@ -58,6 +58,6 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa00783.jpg"/>
-<img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
+<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa083.jpg"/>
+<img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-7821039254.jpg"/>
 </p>
