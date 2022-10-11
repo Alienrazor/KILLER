@@ -50,6 +50,8 @@ __KILLER LINK__ :
 __SAVE__ :
 - From this option you can repair damaged device of your victm from that virus by just installing this anti-virus in his device.
 
+__ABOUT__ :
+- Info about this tool
 
 __EXIT__ :
 - From this option you can exit from infect tool 
