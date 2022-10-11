@@ -36,7 +36,7 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `ls`
 * `cd KILLER`
 * `ls`
-* `python KILL.py`
+* `python Kill.py`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
