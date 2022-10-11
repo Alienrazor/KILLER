@@ -54,7 +54,7 @@ __ABOUT__ :
 - Info about this tool
 
 __EXIT__ :
-- From this option you can exit from infect tool 
+- From this option you can exit from tool 
 
 ## SCREEN SHOTS [Termux]
 
