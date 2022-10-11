@@ -43,7 +43,7 @@ logo ="""
 def menu():  
     os.system ("clear")
     print(logo)
-    print ("            ALIENRAZOR VIRUS LINK\033[0;96m
+    print ("            ALIENRAZOR VIRUS LINK\033[0;96m ")
     print ("")
     print ("              [1] KILLER LINK ")
     print ("              [2] SAVE")
